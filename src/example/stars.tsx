@@ -30,4 +30,4 @@ function Stars(props: RatingProps) {
     )
 }
 
-export default Stars;
+export  default  Stars;

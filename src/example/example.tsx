@@ -1,9 +1,8 @@
+// import i from "./example.module.css"
 import Stars from "./stars";
-import i from "../stars/example.module.css"
-
 function Ex() {
     return (
-        <div className={i.example}>
+        <div>
             <Stars value={1}/>
             <Stars value={2}/>
             <Stars value={3}/>
@@ -14,4 +13,4 @@ function Ex() {
     )
 }
 
-export default Ex;
+export default  Ex;
